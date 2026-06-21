@@ -1,4 +1,4 @@
-#  Catálogo de Filmes 🎬
+#  Catálogo de Filmes
 
 Esse é um projeto de catálogo de filmes que consome a API oficial do TMDb (The Movie Database). Desenvolvi a aplicação usando Next.js e foquei bastante em componentização, organização do código e em criar uma experiência visual bem agradável e responsiva para o usuário.
 
