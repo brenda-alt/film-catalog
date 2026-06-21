@@ -65,13 +65,13 @@ export default function Home() {
       
       {/* HEADER */}
       <header className="w-full max-w-7xl p-6 flex justify-between items-center border-b border-zinc-800">
-        <span className="text-xl font-bold tracking-wider text-zinc-200">CINEFLIX</span>
+        <span className="text-xl font-bold tracking-wider text-zinc-200">Home Session</span>
       </header>
 
       {/* HERO SECTION */}
       <main className="w-full max-w-4xl flex flex-col items-center justify-center pt-20 px-4 text-center gap-6">
         <h1 className="text-6xl font-black tracking-tighter text-amber-500">
-          CINEFLIX
+          HOME SESSION
         </h1>
         
         <SearchBar onSearch={handleSearch} />
